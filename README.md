@@ -35,31 +35,26 @@ virtualenv .
 
 Activate Your Virtual Environment
 
-for Linux
+Linux
 ```
 source bin/activate
 ```
-for Windows
+Windows
 ```
 cd Scripts
 then
 activate
 ```
-To install Dependencies
+Installation of Dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-### Creating Local Server
+### Local Server Creation
 
-Goto src directory, example
-
-```
-cd ../Recommendation-Engine-Movies/src
-```
 To run
 ```
 python app.py runserver
 ```
-Now open your browser and go to this address
+Now open your browser and go to the address shown.
