@@ -27,7 +27,7 @@ Goto that Path
 Example
 
 ```
-cd ~/Destop/Recommendation-Engine-Movies
+cd ~/Desktop/Recommendation-Engine-Movies
 ```
 Create a new virtual environment on that directory
 
