@@ -57,6 +57,6 @@ pip install -r requirements.txt
 
 To run
 ```
-python app.py runserver
+python finalapp.py runserver
 ```
 Now open your browser and go to the address shown.
