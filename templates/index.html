@@ -520,10 +520,10 @@ figure {
 <!-- Demo -->
 <div class="boxstyle">
   <div class="movie">
-        <img src="m.png" style="width:300px;height:250px; text-align: center;">
+        <img src="https://i.ibb.co/mHLYpZm/m.png" alt="logo" border="0" style="width:300px;height:250px; text-align: center;">
         <h1 style="opacity: 100%;">Movie Recommendation System</h1>
         <form style="opacity: 100%;" action="{{ url_for('main') }}" method="POST">
-            <input type="text" id="movie_name" name="movie_name" placeholder="Enter a full movie name" required />
+            <input type="text" id="movie_name" name="movie_name" placeholder="Enter a full movie name you like!" required />
             <input type="submit" id="submission_button" value="Submit"/>
         </form>
         <p style="opacity: 1; font-size: 25px;" style="color: #000; padding: 1em;">To locate comparable movies, the model use <b>Content Based Recommendations.</b> The intuitive assumption is that <i> "if a person enjoys a specific thing, he or she will also appreciate an item that is similar to it."</i>
