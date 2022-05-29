@@ -15,6 +15,9 @@
 #### Database
 > SQLite
 
+#### Code built using 
+> Jupyter, Google colab, Visual Studio
+
 <br>
 
 ### Setup to run
