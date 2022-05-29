@@ -2,7 +2,7 @@
 >A recommendation engine is a data filtering tool that uses algorithms to propose the most relevant products to a certain user or client. It works on the basis of detecting patterns in consumer behavior data, which may be acquired either implicitly or explicitly.
 <br>
 
-<p align="Center"><img align="Center" width="800" src="ss.png"></p>
+<p align="Center"><img align="Center" width="800" src="ss.png.jpg"></p>
 
 ### Technologies Used
 
