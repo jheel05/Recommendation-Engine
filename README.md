@@ -2,6 +2,7 @@
 >A recommendation engine is a data filtering tool that uses algorithms to propose the most relevant products to a certain user or client. It works on the basis of detecting patterns in consumer behavior data, which may be acquired either implicitly or explicitly.
 <br>
 
+<p align="Center"><img align="Center" width="800" src="ss.png"></p>
 
 ### Technologies Used
 
@@ -20,6 +21,12 @@
 
 Extract zip file in your computer
 
+or
+```
+ git clone https://github.com/jheel05/Recommendation-Engine-Movies.git
+ 
+```
+
 Open terminal/cmd promt
 
 Goto that Path
@@ -29,25 +36,12 @@ Example
 ```
 cd ~/Desktop/Recommendation-Engine-Movies
 ```
-Create a new virtual environment on that directory
 
-```
-virtualenv .
-```
-
-Activate Your Virtual Environment
-
-Linux
-```
-source bin/activate
-```
-Windows
-```
-cd Scripts
-then
-activate
-```
 Installation of Dependencies
+
+```
+pip install npm
+```
 
 ```
 pip install -r requirements.txt
@@ -59,4 +53,4 @@ To run
 ```
 python finalapp.py runserver
 ```
-Now open your browser and go to the address shown.
+Now open your browser and go to the IP address shown.
