@@ -20,6 +20,12 @@
 
 Extract zip file in your computer
 
+or
+```
+ git clone https://github.com/jheel05/Recommendation-Engine-Movies.git
+ 
+```
+
 Open terminal/cmd promt
 
 Goto that Path
@@ -29,25 +35,12 @@ Example
 ```
 cd ~/Desktop/Recommendation-Engine-Movies
 ```
-Create a new virtual environment on that directory
 
-```
-virtualenv .
-```
-
-Activate Your Virtual Environment
-
-Linux
-```
-source bin/activate
-```
-Windows
-```
-cd Scripts
-then
-activate
-```
 Installation of Dependencies
+
+```
+pip install npm
+```
 
 ```
 pip install -r requirements.txt
@@ -59,4 +52,4 @@ To run
 ```
 python finalapp.py runserver
 ```
-Now open your browser and go to the address shown.
+Now open your browser and go to the IP address shown.
