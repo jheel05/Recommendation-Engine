@@ -28,7 +28,6 @@ Extract zip file in your computer
 or
 ```
  git clone https://github.com/jheel05/Recommendation-Engine-Movies.git
- 
 ```
 
 Open terminal/cmd promt
